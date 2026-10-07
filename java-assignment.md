@@ -24,23 +24,23 @@
  Then classify each of the following as either primitive or reference:
 
 
-int ; Reference data Type
+int  Reference data Type
 
-String ; Primitive data type
+String  Primitive data type
 
-double ; Reference data Type
-
-
-boolean ; 
-
-char ;  Primitive data type
+double  Reference data Type
 
 
-Student ; Reference data Type
+boolean  
 
-long ;  Primitive data type
+char   Primitive data type
 
-Integer ;   Reference data Type
+
+Student  Reference data Type
+
+long   Primitive data type
+
+Integer    Reference data Type
 
 
 
@@ -77,9 +77,9 @@ int class Student Count= 120;
 
 ``` java 
 
-int a = 10;      10           20
-int b =  4;       5           15
-int c = a+b;     14           35
+int a = 10      10           20
+int b =  4       5           15
+int c = a+b     14           35
 
 ```
 
@@ -210,7 +210,7 @@ Explain why your chosen type is safer for this particular value.
 ```Java
 Name: Joy Samuel
 Age: 18
-Gender ; F
+Gender: F
 GPA: 4.25
 Enrolled: No
 ```
